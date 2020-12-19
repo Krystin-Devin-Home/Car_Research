@@ -3,7 +3,7 @@
 - MSRP: https://driving.ca/
 - Car info2: https://www.caranddriver.com/
 
-Car Model | MSRP | Engine Power | Fuel | Look :star: | Feature :star: |
+Car Model | MSRP | Engine Power | Fuel | Look| Feature |
 -- | -- | -- | -- | -- | -- |
 **Ford EcoSport** | $24.6K - 31.6K | 123~166 hp, FWD/AWD  | 8.6/8.1 |  1/5 | 1/5 |
 **Ford Escape** (SEL, Titanium, 4 cycliner option) | $41K - 59K | 180~250 hp, AWD | 8.6/7.1 | 3/5 | 3/5 |
