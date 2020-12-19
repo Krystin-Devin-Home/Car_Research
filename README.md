@@ -1,8 +1,8 @@
 # Car_Research
 car research 
 - Fuel Economy: https://www.fueleconomy.gov/
-- Details: https://driving.ca/
-- Horse Power: https://www.caranddriver.com/
+- Car info1: https://driving.ca/
+- Car info2: https://www.caranddriver.com/
 
 Car Model | MSRP | Engine Power | Fuel | Look | Feature |
 -- | -- | -- | -- | -- | -- |
