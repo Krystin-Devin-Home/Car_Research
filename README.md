@@ -3,6 +3,6 @@ car research
 - Fuel Economy: https://www.fueleconomy.gov/
 - 
 
-Car Model | New Price | Look | Engine Power | Feature | Fuel Economy |
+Car Model | New Price | Engine Power | Feature | Fuel Economy | Look |
 -- | -- | -- | -- | -- | -- |
-Ford Escape SEL(Titanium) | $ 35K+ | 3/5 | 250 horses and 280 lb-ft of torque (4 cycliner option) | 3/5 | $1,250 | 
+Ford Escape SEL(Titanium). (4 cycliner option) | $ 35K+ | 250 horses, 280 torque  | 3/5 | $1,250 |  3/5 |
