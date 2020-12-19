@@ -1,6 +1,6 @@
 # Car_Research
-- Fuel Economy: https://www.fueleconomy.gov/
-- MSRP & Horsepower: https://driving.ca/
+- Primary source for MSRP, Horsepower, and Fuel Economy: https://driving.ca/
+- Other Fuel Economy: https://www.fueleconomy.gov/
 - Others: https://www.caranddriver.com/
 
 Car Model | MSRP | Engine Power | Fuel | Look|
