@@ -10,6 +10,8 @@ Car Model | MSRP | Engine Power | Fuel | Look|
 **Ford Edge** (4 cylinder in base model) | $34K - 45K | 250~335hp FWD/AWD | 10.9/8 | 3/5 |
 **Jeep Compass** [options](https://www.jeep.ca/en/build-and-price/jeep/compass/2021/22345#activeTab=cash)| $26.4K - $34.6K | 180hp FWD/AWD | 10.4/7.3 | 3/5 |
 **Jeep Renegade** [options](https://www.jeep.ca/en/build-and-price/jeep/renegade/2021/22464#activeTab=cash) | $27.6K - $34.7K | 177~180hp 4WD | 10.8/7.8 | 3/5 |
+**Volkswagon Golf SportWagen [options](https://build.vwmodels.ca/build/?vw_bp=cz0xJmJwPTEmbD14JnNnYz0xJnNnaj0xJm93bD0xJmxhbmc9ZW5fY2Emc2NyPTEmcHJvdj1PTiZtdGQ9MCZtdG09MCZ5PTIwMTkmZmE9Z29sZiZtYT1nb2xmc3BvcnR3YWdlbiZ0NjA9MCZtPTAmcG89MSZib2R5VHlwZT13YWdvbnM=)** | $24.4K - 34.8K | 147~170hp FWD/AWD  | 8.2/6.3 | 2/5 |
+**Volkswagon Tiguan** [options](https://build.vwmodels.ca/build/?vw_bp=cz0xJmJwPTEmbD14JnNnYz0xJnNnaj0xJm93bD0xJmxhbmc9ZW5fY2Emc2NyPTEmcHJvdj1PTiZtdGQ9MCZtdG09MCZ5PTIwMjAmZmE9dGlndWFuJm1hPXRpZ3VhbiZ0NjA9MCZtPTAmcG89MSZib2R5VHlwZT1zdXZz) | $29.7K - 40.4K | 184hp FWD/AWD  | 10.7/8 | 3/5 |
 **BUICK encore-gx** [options](https://www.buick.ca/en/suvs/encore-gx) | $26K - $32.6K | 137~155hp FWD/AWD | 9/7.9 | 3/5 |
 **BUICK Envision** [options](https://www.buick.ca/en/suvs/envision) | $36.3K - $44K | 197~252hp AWD | 11.1/8.6 | 4/5 |
 **GMC Terrain** [options](https://www.gmccanada.ca/en/suvs/terrain) | $34K - $42K | 170-260hp FWD/AWD | 8.5/6| 4/5 |
