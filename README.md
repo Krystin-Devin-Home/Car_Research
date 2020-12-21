@@ -18,6 +18,7 @@ Car Model | Index | MSRP | Engine Power | Fuel | Look|
 **GMC Terrain** [options](https://www.gmccanada.ca/en/suvs/terrain)| 10 | $34K - $42K | 170-260hp FWD/AWD | 8.5/6| 4/5 |
 **GMC Acadia** [options](https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/acadia/2021/acadia/trim)| 11 | $41K - $54K | 193~258hp FWD/AWD | 11.3/8.9 | 4/5 |
 **LINCOLN Corsair** [options](https://shop.lincolncanada.com/configure/corsair/?intcmp=show-bp#/select/)| 12 | $43K - $49K | 250~295hp AWD | 11.1/8.1 | 5/5 |
+**LINCOLN MLC** | 12* | $44.1K | 245hp AWD | 12.13/9.3 | 5/5 
 **CADILLAC XT4** [options](https://www.cadillac.com/suvs/xt4/build-and-price/trim)| 13 | $38.8K - $56K | 237~258hp FWD/AWD | 9.8/7.8 | 5/5 |
 **CADILLAC XT5** [options](https://www.cadillac.com/suvs/xt5/build-and-price/trim)| 14 | $45K - $56K | 310hp FWD/AWD | 11.1/8.1 | 5/5 |
 **Volvo XC40** [options](https://www.volvocars.com/en-ca/build/suv/xc40)| 15 | $40K - $48K | 248~258hp AWD | 10.3/7.5 | 5/5 |
