@@ -8,6 +8,7 @@ Car Model | Index | MSRP | Engine Power | Fuel | Look|
 **Ford EcoSport**| 1 | $24.6K - 31.6K | 123~166hp FWD/AWD  | 8.6/8.1 | 1/5 |
 **Ford Escape** (SEL Titanium, 4 cycliner option)| 2 | $28.5K - 40K | 180~250hp FWD/AWD | 8.6/7.1 | 3/5 |
 **Ford Edge** (4 cylinder in base model)| 3 | $34K - 45K | 250~335hp FWD/AWD | 10.9/8 | 3/5 |
+**Jeep Patriot** | 5* | $20K - $24.6K | FWD/4WD | 10.3/7.9 | 4/5 |
 **Jeep Compass** [options](https://www.jeep.ca/en/build-and-price/jeep/compass/2021/22345#activeTab=cash)| 4 | $26.4K - $34.6K | 180hp FWD/AWD | 10.4/7.3 | 3/5 |
 **Jeep Renegade** [options](https://www.jeep.ca/en/build-and-price/jeep/renegade/2021/22464#activeTab=cash)| 5 | $27.6K - $34.7K | 177~180hp 4WD | 10.8/7.8 | 3/5 |
 **Volkswagon Golf SportWagen [options](https://build.vwmodels.ca/build/?vw_bp=cz0xJmJwPTEmbD14JnNnYz0xJnNnaj0xJm93bD0xJmxhbmc9ZW5fY2Emc2NyPTEmcHJvdj1PTiZtdGQ9MCZtdG09MCZ5PTIwMTkmZmE9Z29sZiZtYT1nb2xmc3BvcnR3YWdlbiZ0NjA9MCZtPTAmcG89MSZib2R5VHlwZT13YWdvbnM=)**| 6 | $24.4K - 34.8K | 147~170hp FWD/AWD  | 8.2/6.3 | 2/5 |
