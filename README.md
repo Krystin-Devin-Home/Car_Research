@@ -10,8 +10,10 @@ Car Model | MSRP | Engine Power | Fuel | Look|
 **Ford Edge** (4 cylinder in base model) | $34K - 45K | 250~335hp FWD/AWD | 10.9/8 | 3/5 |
 **Jeep Compass** [options](https://www.jeep.ca/en/build-and-price/jeep/compass/2021/22345#activeTab=cash)| $26.4K - $34.6K | 180hp FWD/AWD | 10.4/7.3 | 3/5 |
 **Jeep Renegade** [options](https://www.jeep.ca/en/build-and-price/jeep/renegade/2021/22464#activeTab=cash) | $27.6K - $34.7K | 177~180hp 4WD | 10.8/7.8 | 3/5 |
-**BUICK Envision** [buick/envision](https://driving.ca/buick/envision) | $36K - $46K | 197~252hp AWD | 11.1/8.6 | 4/5 |
-**GMC Acadia** | $37K - $53.9K | 193~258hp FWD/AWD | 11.3/8.9 | 4/5 |
+**BUICK encore-gx** [options](https://www.buick.ca/en/suvs/encore-gx) | $26K - $32.6K | 137~155hp FWD/AWD | 9/7.9 | 3/5 |
+**BUICK Envision** [options](https://www.buick.ca/en/suvs/envision) | $36.3K - $44K | 197~252hp AWD | 11.1/8.6 | 4/5 |
+**GMC Terrain** [options](https://www.gmccanada.ca/en/suvs/terrain) | $34K - $42K | 170-260hp FWD/AWD | 8.5/6| 4/5 |
+**GMC Acadia** [options](https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/acadia/2021/acadia/trim)| $41K - $54K | 193~258hp FWD/AWD | 11.3/8.9 | 4/5 |
 **LINCOLN Corsair** | $44K - $50K | 250~295hp AWD | 11.1/8.1 | 5/5 |
 **CADILLAC XT5** | $44K - $56K | 310hp FWD/AWD | 11.1/8.1 | 5/5 |
 **Volvo XC60** [volvo/xc60](https://driving.ca/volvo/xc60) | $46.3K - $89K | 240~300hp FWD/AWD | 11.1/8.3 | 5/5 |
