@@ -14,7 +14,8 @@ Car Model | MSRP | Engine Power | Fuel | Look|
 **BUICK Envision** [options](https://www.buick.ca/en/suvs/envision) | $36.3K - $44K | 197~252hp AWD | 11.1/8.6 | 4/5 |
 **GMC Terrain** [options](https://www.gmccanada.ca/en/suvs/terrain) | $34K - $42K | 170-260hp FWD/AWD | 8.5/6| 4/5 |
 **GMC Acadia** [options](https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/acadia/2021/acadia/trim)| $41K - $54K | 193~258hp FWD/AWD | 11.3/8.9 | 4/5 |
-**LINCOLN Corsair** | $44K - $50K | 250~295hp AWD | 11.1/8.1 | 5/5 |
+**LINCOLN Corsair** [options](https://shop.lincolncanada.com/configure/corsair/?intcmp=show-bp#/select/) | $43K - $49K | 250~295hp AWD | 11.1/8.1 | 5/5 |
+**CADILLAC XT4** [options](https://www.cadillac.com/suvs/xt4/build-and-price/trim) | $38.8K - $56K | 237~258hp FWD/AWD | 9.8/7.8 | 5/5 |
 **CADILLAC XT5** | $44K - $56K | 310hp FWD/AWD | 11.1/8.1 | 5/5 |
 **Volvo XC60** [volvo/xc60](https://driving.ca/volvo/xc60) | $46.3K - $89K | 240~300hp FWD/AWD | 11.1/8.3 | 5/5 |
 **AUDI Q3** [audi/q3](https://driving.ca/audi/q3)| $39K - $46K | 228~258hp AWD | 12.3/8.6 | 5/5 |
