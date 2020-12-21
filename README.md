@@ -14,6 +14,7 @@ Car Model | MSRP | Engine Power | Fuel | Look|
 **GMC Acadia** | $37K - $53.9K | 193~258hp FWD/AWD | 11.3/8.9 | 4/5 |
 **LINCOLN Corsair** | $44K - $50K | 250~295hp AWD | 11.1/8.1 | 5/5 |
 **CADILLAC XT5** | $44K - $56K | 310hp FWD/AWD | 11.1/8.1 | 5/5 |
+**Volvo XC60** [volvo/xc60](https://driving.ca/volvo/xc60) | $46.3K - $89K | 240~300hp FWD/AWD | 11.1/8.3 | 5/5 |
 **AUDI Q3** [audi/q3](https://driving.ca/audi/q3)| $39K - $46K | 228~258hp AWD | 12.3/8.6 | 5/5 |
 **AUDI Q5** [audi/q5](https://driving.ca/audi/q5)| $46.3K - $72K | 248~362hp AWD | 10.7/8.4 | 5/5 |
 
