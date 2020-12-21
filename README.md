@@ -17,7 +17,8 @@ Car Model | MSRP | Engine Power | Fuel | Look|
 **LINCOLN Corsair** [options](https://shop.lincolncanada.com/configure/corsair/?intcmp=show-bp#/select/) | $43K - $49K | 250~295hp AWD | 11.1/8.1 | 5/5 |
 **CADILLAC XT4** [options](https://www.cadillac.com/suvs/xt4/build-and-price/trim) | $38.8K - $56K | 237~258hp FWD/AWD | 9.8/7.8 | 5/5 |
 **CADILLAC XT5** [options](https://www.cadillac.com/suvs/xt5/build-and-price/trim) | $45K - $56K | 310hp FWD/AWD | 11.1/8.1 | 5/5 |
-**Volvo XC60** [volvo/xc60](https://driving.ca/volvo/xc60) | $46.3K - $89K | 240~300hp FWD/AWD | 11.1/8.3 | 5/5 |
+**Volvo XC40** [options](https://www.volvocars.com/en-ca/build/suv/xc40) | $40K - $48K | 248~258hp AWD | 10.3/7.5 | 5/5 |
+**Volvo XC60** [options](https://www.volvocars.com/en-ca/build/suv/xc60) | $46.3K - $89K | 240~300hp FWD/AWD | 11.1/8.3 | 5/5 |
 **AUDI Q3** [audi/q3](https://driving.ca/audi/q3)| $39K - $46K | 228~258hp AWD | 12.3/8.6 | 5/5 |
 **AUDI Q5** [audi/q5](https://driving.ca/audi/q5)| $46.3K - $72K | 248~362hp AWD | 10.7/8.4 | 5/5 |
 
