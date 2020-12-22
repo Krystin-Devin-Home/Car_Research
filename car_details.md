@@ -8,6 +8,8 @@ Ford Edge | 2017 | SEL | $27.3k @62,000km | 2.0L turbo-I4 245hp | AWD | 11.9/8.6
 Jeep Patriot | 2017 | | | 2.0L or 2.4L I4 | | | -/9.6 | 4/5
 VW Golf SportWagen | 2019 | S 4Motion | $22k @50,000km | 1.8L Turbo-I4 168hp | AWD | 10.8/8.1 | -/7.0 | 2/5
 VW Golf Alltrack | 2019 | Highline 4Motion | $34.5k @5,800km | 1.8L Turbo-I4 168hp | AWD | 10.7/8.0 | -/7.5 | 2/5
+VW Tiguan | 2020 | Trendline Comfortline 4Motion | $31.9k-Trendline $35.4k-Comfortline | 2.0L Turbo-I4 184hp | AWD | 11.5/8.7 | -/9.5 | 3/5
+VW Tiguan | 2017 | Wolfsburg | $20k @50,000km | 2.0L Turbo-I4 200hp | AWD | 12.0/10.0 | -/7.5 | 3/5
 
 
 <br />
@@ -27,3 +29,6 @@ VW Golf Alltrack | 2019 | Highline 4Motion | $34.5k @5,800km | 1.8L Turbo-I4 168
 
 **VW Golf Alltrack 2019 Highline 1.8T 4Motion**
 * https://www.donvalleyvolkswagen.ca/inventory/certified-used-2019-volkswagen-golf-alltrack-highline-dsg-awd-wagon-3vwh17au0km522151
+
+**VW Tiguan 2020 Used**
+* https://www.volkswagendowntowntoronto.ca/en/inventory/used/2020-volkswagen-tiguan-toronto-ontario/18165020 $31k@25,000km
