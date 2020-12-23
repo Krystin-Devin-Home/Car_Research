@@ -42,5 +42,5 @@ Car Model | Index | MSRP | Engine Power | Fuel | Look|
 - [[2018-audi-q3-komfort]](https://www.audidowntowntoronto.com/used/vehicle/2018-audi-q3-20t-komfort-id10496649.htm) Price: $29,890, Mileage: 46,367 km 
 
 **BMW Used**
-- [[2017-bmw-x1-xdrive28i]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x1-xdrive28i-all-wheel-drive-crossover-wbxht3c34h5f69746) Price: $$28,000, Mileage: 57,028 km 
+- [[2017-bmw-x1-xdrive28i]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x1-xdrive28i-all-wheel-drive-crossover-wbxht3c34h5f69746) Price: $28,000, Mileage: 57,028 km 
 - [[2017-bmw-x3-xdrive28i]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x3-xdrive28i-all-wheel-drive-crossover-5uxwx9c32h0w72880) Price: $32,000, Mileage: 50,016 km 
