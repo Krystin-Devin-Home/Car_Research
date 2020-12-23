@@ -46,3 +46,5 @@ VW Tiguan | 2017 | Wolfsburg | $20k @50,000km | 2.0L Turbo-I4 200hp | AWD | 12.0
 * https://www.downtownchrysler.ca/en/used-inventory/jeep/compass/2020/2020-jeep-compass-id7258604 Limited $30k @4,000km
 * https://www.downtownchrysler.ca/en/used-inventory/jeep/compass/2020/2020-jeep-compass-id7113547 Limited $33k @11,000km
 
+**Audi Used**
+- [2018-audi-q3](https://www.audidowntowntoronto.com/used/vehicle/2018-audi-q3-20t-komfort-id10496649.htm) Price: $29,890, Mileage: 46,367 km  
