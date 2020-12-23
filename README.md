@@ -50,6 +50,7 @@ Car Model | Index | MSRP | Engine Power | Fuel | Look|
 
 **VW New**
 - [[2020-volkswagen-tiguan]](https://www.volkswagendowntowntoronto.ca/en/inventory/new/2020-volkswagen-tiguan-toronto-ontario/17540732) Price: $39,306
+- [[2020-volkswagen-atlas-cross-sport]](https://www.volkswagendowntowntoronto.ca/en/inventory/new/2020-volkswagen-atlas-cross-sport-toronto-ontario/17949078) Price: $41,971
 
 **VW Used**
 - [[2017-volkswagen-tiguan]](https://www.volkswagendowntowntoronto.ca/en/inventory/used/2017-volkswagen-tiguan-toronto-ontario/18167323) Price: $19,995, Mileage: 53,920
