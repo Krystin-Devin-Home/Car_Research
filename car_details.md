@@ -27,26 +27,26 @@ Audi | 2018 | Komfort 2.0T | $30k @46,000km | 2.0L 200hp | AWD | 11.6/8.4 | -/8.
 <br />
 
 **Ford Escape 2017 Titanium 2.0L AWD**
-* https://heritageford.ca/view/used-2017-ford-escape-titanium-544049/
-* https://heritageford.ca/view/used-2017-ford-escape-titanium-544099/
-* https://www.downtownford.ca/Used-Inventory/2017-Ford-Escape-Toronto-nakrTUpRLEiZjhxyjEN2bA
+* [$25k 59,000km @ Scarborough](https://heritageford.ca/view/used-2017-ford-escape-titanium-544049/)
+* [$25.8k 46,000km @ Scarborough](https://heritageford.ca/view/used-2017-ford-escape-titanium-544099/)
+* [$22k 18,000km @ Downtown](https://www.downtownford.ca/Used-Inventory/2017-Ford-Escape-Toronto-nakrTUpRLEiZjhxyjEN2bA)
 
 **Ford Edge 2017 SEL 2.0L AWD**
-* https://heritageford.ca/view/used-2017-ford-edge-sel-567612/
+* [$27.3k 62,000km @ Scarborough](https://heritageford.ca/view/used-2017-ford-edge-sel-567612/)
 
 **VW Golf SportWagen 2019 S 1.8T 4Motion**
-* https://www.yorkdalevw.ca/inventory/certified-used-2017-volkswagen-golf-sportwagen-1-8t-trendline-6sp-at-wtip-wagon-3vwc17au9hm502306
-* https://www.yorkdalevw.ca/inventory/certified-used-2019-volkswagen-golf-sportwagen-1-8t-cmfrtline-dsg-6sp-at-wtip-4motion-wagon-3vw117au8km510489
+* [$15k 77,000km @ Yorkdale](https://www.yorkdalevw.ca/inventory/certified-used-2017-volkswagen-golf-sportwagen-1-8t-trendline-6sp-at-wtip-wagon-3vwc17au9hm502306)
+* [$22.5k 39,000km @ Yorkdale](https://www.yorkdalevw.ca/inventory/certified-used-2019-volkswagen-golf-sportwagen-1-8t-cmfrtline-dsg-6sp-at-wtip-4motion-wagon-3vw117au8km510489)
 
 **VW Golf Alltrack 2019 Highline 1.8T 4Motion**
-* https://www.donvalleyvolkswagen.ca/inventory/certified-used-2019-volkswagen-golf-alltrack-highline-dsg-awd-wagon-3vwh17au0km522151
+* [$34.5k 6,000km @ Don Valley](https://www.donvalleyvolkswagen.ca/inventory/certified-used-2019-volkswagen-golf-alltrack-highline-dsg-awd-wagon-3vwh17au0km522151)
 
 **VW Tiguan 2020 Used**
-* https://www.volkswagendowntowntoronto.ca/en/inventory/used/2020-volkswagen-tiguan-toronto-ontario/18165020 $31k@25,000km
+* [$31.5k 25,500km @ Downtown](https://www.volkswagendowntowntoronto.ca/en/inventory/used/2020-volkswagen-tiguan-toronto-ontario/18165020)
 
 **Jeep Compass 2020 Used**
-* https://www.downtownchrysler.ca/en/used-inventory/jeep/compass/2020/2020-jeep-compass-id7258604 Limited $30k @4,000km
-* https://www.downtownchrysler.ca/en/used-inventory/jeep/compass/2020/2020-jeep-compass-id7113547 Limited $33k @11,000km
+* [Limited $30k 4,000km @ Downtown](https://www.downtownchrysler.ca/en/used-inventory/jeep/compass/2020/2020-jeep-compass-id7258604)
+* [Limited $33k 11,000km @ Downtown](https://www.downtownchrysler.ca/en/used-inventory/jeep/compass/2020/2020-jeep-compass-id7113547)
 
 **Audi Used**
 - [[2018-audi-q3]](https://www.audidowntowntoronto.com/used/vehicle/2018-audi-q3-20t-komfort-id10496649.htm) Price: $29,890, Mileage: 46,367 km 
