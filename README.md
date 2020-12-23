@@ -1,4 +1,8 @@
 ## 01_Vehicles
+
+**Mercedes**
+- [[2021-mercedes-benz-gla-250]](https://www.mercedes-benz-downtown-toronto.ca/inventory/new-2021-mercedes-benz-gla-gla-250-all-wheel-drive-4matic-suv-w1n4n4hbxmj225695) **Price: $52,435**
+
 **Audi**
 - [[2021-audi-q3-komfort]](https://www.audidowntowntoronto.com/new/vehicle/2021-audi-q3-45-komfort-id10478036.htm) **Price: $44,276**
 - [[2017-audi-q3-technik]](https://www.audidowntowntoronto.com/used/vehicle/2017-audi-q3-20t-technik-id10504306.htm) Price: $30,890, Mileage: 31,448
