@@ -48,5 +48,8 @@ Car Model | Index | MSRP | Engine Power | Fuel | Look|
 - [[2018-bmw-x1]](https://www.bmwtoronto.ca/inventory/used-2018-bmw-x1-xdrive28i-all-wheel-drive-crossover-wbxht3c38j5k21418) Price: $30,500, Mileage: 63,573 
 - [[2017-bmw-x3]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x3-xdrive28i-all-wheel-drive-crossover-5uxwx9c32h0w72880) Price: $32,000, Mileage: 50,016 
 
+**VW New**
+- [[2020-volkswagen-tiguan]](https://www.volkswagendowntowntoronto.ca/en/inventory/new/2020-volkswagen-tiguan-toronto-ontario/17540732) Price: $39,306
+
 **VW Used**
 - [[2017-volkswagen-tiguan]](https://www.volkswagendowntowntoronto.ca/en/inventory/used/2017-volkswagen-tiguan-toronto-ontario/18167323) Price: $19,995, Mileage: 53,920
