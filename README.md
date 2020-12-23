@@ -32,25 +32,19 @@ Car Model | Index | MSRP | Engine Power | Fuel | Look|
 **AUDI Q5** [options](https://www.audi.ca/ca/web/en/models/q5/q5/build-price.html)| 20 | $46.5K - $57K | 248~362hp AWD | 10.7/8.4 | 5/5 |
 
 ## 01_Vehicles
-**Audi New**
+**Audi**
 - [[2021-audi-q3-komfort]](https://www.audidowntowntoronto.com/new/vehicle/2021-audi-q3-45-komfort-id10478036.htm) Price: $44,276
-
-**Audi Used**
 - [[2017-audi-q3-technik]](https://www.audidowntowntoronto.com/used/vehicle/2017-audi-q3-20t-technik-id10504306.htm) Price: $30,890, Mileage: 31,448
 - [[2017-audi-q5-komfort]](https://www.audidowntowntoronto.com/used/vehicle/2017-audi-q5-20t-komfort-id10479864.htm) Price: $31,890, Mileage: 25,602
 - [[2017-audi-q3-technik]](https://www.audidowntowntoronto.com/used/vehicle/2017-audi-q3-20t-technik-id10499239.htm) Price: $31,890, Mileage: 25,629 
 
-**BMW New**
+**BMW**
 - [[2020-bmw-x2]](https://www.bmwtoronto.ca/inventory/new-2020-bmw-x2-xdrive-28i-all-wheel-drive-crossover-wbxyj1c04l5n90361) Price: $47,179
-
-**BMW Used**
 - [[2017-bmw-x1]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x1-xdrive28i-all-wheel-drive-crossover-wbxht3c34h5f69746) Price: $28,000, Mileage: 57,028 
 - [[2018-bmw-x1]](https://www.bmwtoronto.ca/inventory/used-2018-bmw-x1-xdrive28i-all-wheel-drive-crossover-wbxht3c38j5k21418) Price: $30,500, Mileage: 63,573 
 - [[2017-bmw-x3]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x3-xdrive28i-all-wheel-drive-crossover-5uxwx9c32h0w72880) Price: $32,000, Mileage: 50,016 
 
-**VW New**
+**VW**
 - [[2020-volkswagen-tiguan]](https://www.volkswagendowntowntoronto.ca/en/inventory/new/2020-volkswagen-tiguan-toronto-ontario/17540732) Price: $39,306
 - [[2020-volkswagen-atlas-cross-sport]](https://www.volkswagendowntowntoronto.ca/en/inventory/new/2020-volkswagen-atlas-cross-sport-toronto-ontario/17949078) Price: $41,971
-
-**VW Used**
 - [[2017-volkswagen-tiguan]](https://www.volkswagendowntowntoronto.ca/en/inventory/used/2017-volkswagen-tiguan-toronto-ontario/18167323) Price: $19,995, Mileage: 53,920
