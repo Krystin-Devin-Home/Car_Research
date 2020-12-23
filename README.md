@@ -1,5 +1,3 @@
-# Car_Research
-
 ## 01_Vehicles
 **Audi**
 - [[2021-audi-q3-komfort]](https://www.audidowntowntoronto.com/new/vehicle/2021-audi-q3-45-komfort-id10478036.htm) Price: $44,276
@@ -17,6 +15,8 @@
 - [[2020-volkswagen-tiguan]](https://www.volkswagendowntowntoronto.ca/en/inventory/new/2020-volkswagen-tiguan-toronto-ontario/17540732) Price: $39,306
 - [[2020-volkswagen-atlas-cross-sport]](https://www.volkswagendowntowntoronto.ca/en/inventory/new/2020-volkswagen-atlas-cross-sport-toronto-ontario/17949078) Price: $41,971
 - [[2017-volkswagen-tiguan]](https://www.volkswagendowntowntoronto.ca/en/inventory/used/2017-volkswagen-tiguan-toronto-ontario/18167323) Price: $19,995, Mileage: 53,920
+
+<br />
 
 ## 00_Brands
 - Primary source for MSRP, Horsepower, and Fuel Economy: https://driving.ca/
