@@ -38,8 +38,7 @@ Car Model | Index | MSRP | Engine Power | Fuel | Look|
 **Audi Used**
 - [[2017-audi-q3-technik]](https://www.audidowntowntoronto.com/used/vehicle/2017-audi-q3-20t-technik-id10504306.htm) Price: $30,890, Mileage: 31,448 km
 - [[2017-audi-q5-komfort]](https://www.audidowntowntoronto.com/used/vehicle/2017-audi-q5-20t-komfort-id10479864.htm) Price: $31,890, Mileage: 25,602 km
-- [[2017-audi-q3-technik]](https://www.audidowntowntoronto.com/used/vehicle/2017-audi-q3-20t-technik-id10499239.htm) Price: $31,890, Mileage: 25,629 km
-- [[2018-audi-q3-komfort]](https://www.audidowntowntoronto.com/used/vehicle/2018-audi-q3-20t-komfort-id10496649.htm) Price: $29,890, Mileage: 46,367 km 
+- [[2017-audi-q3-technik]](https://www.audidowntowntoronto.com/used/vehicle/2017-audi-q3-20t-technik-id10499239.htm) Price: $31,890, Mileage: 25,629 km 
 
 **BMW Used**
 - [[2017-bmw-x1-xdrive28i]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x1-xdrive28i-all-wheel-drive-crossover-wbxht3c34h5f69746) Price: $28,000, Mileage: 57,028 km 
