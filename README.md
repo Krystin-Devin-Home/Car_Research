@@ -40,7 +40,10 @@ Car Model | Index | MSRP | Engine Power | Fuel | Look|
 - [[2017-audi-q5-komfort]](https://www.audidowntowntoronto.com/used/vehicle/2017-audi-q5-20t-komfort-id10479864.htm) Price: $31,890, Mileage: 25,602 km
 - [[2017-audi-q3-technik]](https://www.audidowntowntoronto.com/used/vehicle/2017-audi-q3-20t-technik-id10499239.htm) Price: $31,890, Mileage: 25,629 km 
 
+**BMW New**
+- [[2020-bmw-x2]](https://www.bmwtoronto.ca/inventory/new-2020-bmw-x2-xdrive-28i-all-wheel-drive-crossover-wbxyj1c04l5n90361) Price: $47,179
+
 **BMW Used**
-- [[2017-bmw-x1-xdrive28i]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x1-xdrive28i-all-wheel-drive-crossover-wbxht3c34h5f69746) Price: $28,000, Mileage: 57,028 km 
-- [[2018-bmw-x1-xdrive28i]](https://www.bmwtoronto.ca/inventory/used-2018-bmw-x1-xdrive28i-all-wheel-drive-crossover-wbxht3c38j5k21418) Price: $30,500, Mileage: 63,573 km 
-- [[2017-bmw-x3-xdrive28i]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x3-xdrive28i-all-wheel-drive-crossover-5uxwx9c32h0w72880) Price: $32,000, Mileage: 50,016 km 
+- [[2017-bmw-x1]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x1-xdrive28i-all-wheel-drive-crossover-wbxht3c34h5f69746) Price: $28,000, Mileage: 57,028 km 
+- [[2018-bmw-x1]](https://www.bmwtoronto.ca/inventory/used-2018-bmw-x1-xdrive28i-all-wheel-drive-crossover-wbxht3c38j5k21418) Price: $30,500, Mileage: 63,573 km 
+- [[2017-bmw-x3]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x3-xdrive28i-all-wheel-drive-crossover-5uxwx9c32h0w72880) Price: $32,000, Mileage: 50,016 km 
