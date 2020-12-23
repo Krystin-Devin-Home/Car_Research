@@ -12,8 +12,8 @@ VW Golf SportWagen | 2019 | S 4Motion | $22k @50,000km | 1.8L 168hp | AWD | 10.8
 VW Golf Alltrack | 2019 | Highline 4Motion | $34.5k @5,800km | 1.8L 168hp | AWD | 10.7/8.0 | -/7.5 | 2/5
 VW Tiguan | 2020 | Trendline Comfortline 4Motion | $31.9k-Trendline $35.4k-Comfortline | 2.0L 184hp | AWD | 11.5/8.7 | -/9.5 | 3/5
 VW Tiguan | 2017 | Wolfsburg | $20k @50,000km | 2.0L 200hp | AWD | 12.0/10.0 | -/7.5 | 3/5
-Audi | 2021 | Komfort 45 | $41.7k New | 2.0L 228hp | AWD | 11.7/8.4 | -/7.8 | 5/5
-Audi | 2018 | Komfort 2.0T | $30k @46,000km | 2.0L 200hp | AWD | 11.6/8.4 | -/8.0 | 5/5
+Audi Q3 | 2021 | Komfort 45 | $41.7k New | 2.0L 228hp | AWD | 11.7/8.4 | -/7.8 | 5/5
+Audi Q3 | 2018 | Komfort 2.0T | $30k @46,000km | 2.0L 200hp | AWD | 11.6/8.4 | -/8.0 | 5/5
 
 <br />
 
