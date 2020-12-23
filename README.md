@@ -1,4 +1,6 @@
 # Car_Research
+
+## 00_Brands
 - Primary source for MSRP, Horsepower, and Fuel Economy: https://driving.ca/
 - Other Fuel Economy: https://www.fueleconomy.gov/
 - Gov Canada Fuel Economy: https://fcr-ccc.nrcan-rncan.gc.ca/en
@@ -28,5 +30,10 @@ Car Model | Index | MSRP | Engine Power | Fuel | Look|
 **BMW X2** [options](https://driving.ca/bmw/x2)| 18 | $43.1K - 49K | 228~258hp AWD | 9.9/7.6 | 5/5 |
 **AUDI Q3** [options](https://www.audi.ca/ca/web/en/models/q3/q3/build-price.html)| 19 | $39.2K - $46.3K | 228~258hp AWD | 12.3/8.6 | 5/5 |
 **AUDI Q5** [options](https://www.audi.ca/ca/web/en/models/q5/q5/build-price.html)| 20 | $46.5K - $57K | 248~362hp AWD | 10.7/8.4 | 5/5 |
+
+## 01_Vehicles
+**Audi Used**
+- [[2018-audi-q3]](https://www.audidowntowntoronto.com/used/vehicle/2018-audi-q3-20t-komfort-id10496649.htm) Price: $29,890, Mileage: 46,367 km 
+- [[2017-audi-q3]](https://www.audidowntowntoronto.com/used/vehicle/2017-audi-q3-20t-technik-id10504306.htm) Price: $30,890, Mileage: 31,448 km
 
 
