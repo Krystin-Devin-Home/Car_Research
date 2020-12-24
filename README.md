@@ -17,7 +17,11 @@ Downtown Dealership
 - [[2020-bmw-x2]](https://www.bmwtoronto.ca/inventory/new-2020-bmw-x2-xdrive-28i-all-wheel-drive-crossover-wbxyj1c04l5n90361) **Price: $47,179**
 - [[2017-bmw-x1]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x1-xdrive28i-all-wheel-drive-crossover-wbxht3c34h5f69746) Price: $28,000, Mileage: 57,028 
 - [[2018-bmw-x1]](https://www.bmwtoronto.ca/inventory/used-2018-bmw-x1-xdrive28i-all-wheel-drive-crossover-wbxht3c38j5k21418) Price: $30,500, Mileage: 63,573 
+- [[2017-bmw-x1]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x1-xdrive28i-all-wheel-drive-crossover-wbxht3c33h5f69799) Price: $26,000, Mileage: 48,521
 - [[2017-bmw-x3]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x3-xdrive28i-all-wheel-drive-crossover-5uxwx9c32h0w72880) Price: $32,000, Mileage: 50,016 
+- [[2017-bmw-x1]](https://www.bmwmarkham.com/used/vehicle/2017-bmw-x1-xdrive28i-id10509892.htm) Price: $27,810, Mileage: 28,145, @Markham
+- [[2017-bmw-x1]](https://www.bmwmarkham.com/used/vehicle/2017-bmw-x1-xdrive28i-id10469330.htm) Price: $24,400, Mileage: 40,819, @Markham
+- [[2017-bmw-x1]](https://www.bmwmarkham.com/used/vehicle/2017-bmw-x1-xdrive28i-id10352216.htm) Price: $25,400, Mileage: 39,850, @Markham
 
 **VW**
 - [[2020-volkswagen-tiguan]](https://www.volkswagendowntowntoronto.ca/en/inventory/new/2020-volkswagen-tiguan-toronto-ontario/17540732) **Price: $39,306**
