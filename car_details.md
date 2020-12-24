@@ -14,6 +14,8 @@ VW Tiguan | 2020 | Trendline Comfortline 4Motion | $31.9k-Trendline $35.4k-Comfo
 VW Tiguan | 2017 | Wolfsburg | $20k @50,000km | 2.0L 200hp | AWD | 12.0/10.0 | -/7.5 | 3/5
 Audi Q3 | 2021 | Komfort 45 | $41.7k New | 2.0L 228hp | AWD | 11.7/8.4 | -/7.8 | 5/5
 Audi Q3 | 2018 | Komfort 2.0T | $30k @46,000km | 2.0L 200hp | AWD | 11.6/8.4 | -/8.0 | 5/5
+BMW X1 | 2017 | xDrive 28i | $28k @60,000km | 2.0L 228hp | AWD | 10.5/7.4 | -/6.5 | 5/5
+BMW X3 | 2017 | xDrive 28i | $32k @50,000km | 2.0L 240hp | AWD | 11.1/8.5 | -/- | 5/5
 
 <br />
 
