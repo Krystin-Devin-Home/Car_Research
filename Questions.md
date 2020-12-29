@@ -5,3 +5,4 @@ Questions for BMW X1
 * take care of used car process
 * Have all fluids been topped off?
 * Need to manually change to AWD?
+* Does it have spare tire?
