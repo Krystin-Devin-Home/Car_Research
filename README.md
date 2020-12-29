@@ -22,6 +22,7 @@ Downtown Dealership
 - [[2017-bmw-x1]](https://www.bmwmarkham.com/used/vehicle/2017-bmw-x1-xdrive28i-id10509892.htm) Price: $27,810, Mileage: 28,145, @Markham
 - [[2017-bmw-x1]](https://www.bmwmarkham.com/used/vehicle/2017-bmw-x1-xdrive28i-id10469330.htm) Price: $24,400, Mileage: 40,819, @Markham
 - [[2017-bmw-x1]](https://www.bmwmarkham.com/used/vehicle/2017-bmw-x1-xdrive28i-id10352216.htm) Price: $25,400, Mileage: 39,850, @Markham
+- [[2017-bmw-x1]](https://www.pfaffbmw.com/used/vehicle/2017-bmw-x1-xdrive28i-id10496452.htm) Price: $26,000, Mileage: 36,123, @Mississauga
 
 **VW**
 - [[2020-volkswagen-tiguan]](https://www.volkswagendowntowntoronto.ca/en/inventory/new/2020-volkswagen-tiguan-toronto-ontario/17540732) **Price: $39,306**
