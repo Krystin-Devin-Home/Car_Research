@@ -19,9 +19,9 @@ Downtown Dealership
 - [[2018-bmw-x1]](https://www.bmwtoronto.ca/inventory/used-2018-bmw-x1-xdrive28i-all-wheel-drive-crossover-wbxht3c38j5k21418) Price: $30,500, Mileage: 63,573 
 - [[2017-bmw-x1]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x1-xdrive28i-all-wheel-drive-crossover-wbxht3c33h5f69799) Price: $26,000, Mileage: 48,521, 2 owners
 - [[2017-bmw-x3]](https://www.bmwtoronto.ca/inventory/used-2017-bmw-x3-xdrive28i-all-wheel-drive-crossover-5uxwx9c32h0w72880) Price: $32,000, Mileage: 50,016 
-- [[2017-bmw-x1]](https://www.bmwmarkham.com/used/vehicle/2017-bmw-x1-xdrive28i-id10509892.htm) Price: $27,810, Mileage: 28,145, @Markham star:
+- [[2017-bmw-x1]](https://www.bmwmarkham.com/used/vehicle/2017-bmw-x1-xdrive28i-id10509892.htm) Price: $27,810, Mileage: 28,145, @Markham :star:
 - [[2017-bmw-x1]](https://www.bmwmarkham.com/used/vehicle/2017-bmw-x1-xdrive28i-id10469330.htm) Price: $24,400, Mileage: 40,819, @Markham
-- [[2017-bmw-x1]](https://www.bmwmarkham.com/used/vehicle/2017-bmw-x1-xdrive28i-id10352216.htm) Price: $25,400, Mileage: 39,850, @Markham star:
+- [[2017-bmw-x1]](https://www.bmwmarkham.com/used/vehicle/2017-bmw-x1-xdrive28i-id10352216.htm) Price: $25,400, Mileage: 39,850, @Markham :star:
 - [[2017-bmw-x1]](https://www.pfaffbmw.com/used/vehicle/2017-bmw-x1-xdrive28i-id10496452.htm) Price: $26,000, Mileage: 36,123, @Mississauga
 
 **VW**
