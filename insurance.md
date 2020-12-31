@@ -10,4 +10,5 @@
 * RBC: Can't enter address properly
 * TD: $43 for $1000 deductible, Quote #D000023496805
 * Desjardins: $274 for $1000 deductible, Quote SP1C34B9, $248 if bundled
-* Intact: Quote $230, QH00815875
+* Intact: $230, QH00815875
+* Allstate: $143, QOP000261677, assuming bundled 
