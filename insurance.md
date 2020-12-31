@@ -9,5 +9,5 @@
 ### Home Insurance
 * RBC: Can't enter address properly
 * TD: $43 for $1000 deductible, Quote #D000023496805
-* Desjardins: $248 for $1000 deductible, Quote SP1C34B9
+* Desjardins: $274 for $1000 deductible, Quote SP1C34B9, $248 if bundled
 * Intact: Quote $230, QH00815875
