@@ -3,6 +3,7 @@
 ### Key Points
 * Turn off Auto Start/Stop feature, press "A Off" button above Start/Stop Engine. Light on means off
 * Sync button on means driver's settings will be applied to passenger side too
+* Switch from CarPlay to iDrive by pressing Menu next to gear
 <br />
 
 ### Tire Pressure Monitoring
